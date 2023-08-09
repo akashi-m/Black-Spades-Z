@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Black-Spades-Z
 - 👀 I’m interested in Cyber Security...
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Backend Development
 - 📫 How to reach me ... telegram @why_dark 
